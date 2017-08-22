@@ -1,0 +1,19 @@
+{
+  "name": "stublessions",
+  "version": "0.0.0",
+  "description": "stublessions",
+  "main": "app.js",
+  "author": {
+    "name": "madhusudan.gohil"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "chai-spies": "^0.7.1",
+    "mocha": "^3.5.0",
+    "nock": "^9.0.14",
+    "sinon": "^3.2.1"
+  }
+}

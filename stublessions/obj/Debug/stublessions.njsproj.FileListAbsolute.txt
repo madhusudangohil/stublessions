@@ -1,0 +1,2 @@
+D:\Learning\NodeLessions\Testing\stublessions\stublessions\obj\Debug\stublessions.njsprojResolveAssemblyReference.cache
+D:\Learning\NodeLessions\Testing\stublessions\stublessions\bin\Microsoft.NodejsTools.WebRole.dll

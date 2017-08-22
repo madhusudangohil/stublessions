@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/5f1b0991303a64bcadc754b71708ffae05a4ddba/chai-spies/index.d.ts",
+    "raw": "registry:dt/chai-spies#0.0.0+20161108150635",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/5f1b0991303a64bcadc754b71708ffae05a4ddba/chai-spies/index.d.ts"
+  }
+}
